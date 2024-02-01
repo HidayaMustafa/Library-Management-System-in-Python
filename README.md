@@ -13,7 +13,10 @@ managing their collections. The LMS will provide the following functionalities:
 7. Exit
 
 
+
 **The specifications of each option in the LMS are as follows:**
+
+
 **1. Adding new books to the library collection** 
 1.1 The user will enter the name of the file containing the information about the new books after choosing this option. The LMS ought to make sure the file is available and accessible.  
   
@@ -26,12 +29,15 @@ managing their collections. The LMS will provide the following functionalities:
 1.5 If any of the books that are being loaded from the book's information file already have a record in the LMS, the LMS should prompt the user to either replace the existing record or add a new copy of the book. The "number of copies" would be increased if the user wanted to add another copy of the book. 
 
 
+
 **2. Searching for books within the library collection** 
 The LMS should enable users to search for any registered book using any of the parameters (including the optional ones) and print the results on the screen. The user should be able also to store the result in a text file. 
 
 
+
 **3. Editing the information of existing books**
 When selecting this option, the LMS should prompt the user to provide the file's name or ISBN number before letting them update the file's details. Before saving the changed data, the LMS should ask the user for confirmation.
+
 
 
 **4. Archiving books**
@@ -45,12 +51,18 @@ By selecting this option, the user can delete books from the LMS. Only archived 
 
 
 **7. Generating reports about the books available in the LMS.**
-When this option is used, a report that includes the following will be printed on screen:: 
-7.1. how many books are in the LMS, 
-7.2. how many different books are offered in the LMS, 
-7.3. the number of books archived in the LMS, 
-7.4. how many books in the LMS are newer than a particular year, 
-7.5. Book distribution by the publisher, 
+When this option is used, a report that includes the following will be printed on screen:
+
+7.1. how many books are in the LMS.
+
+7.2. how many different books are offered in the LMS.
+
+7.3. the number of books archived in the LMS.
+
+7.4. how many books in the LMS are newer than a particular year.
+
+7.5. Book distribution by the publisher.
+
 7.6. Books distribution by year. 
 
 
