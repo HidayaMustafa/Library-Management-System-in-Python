@@ -18,6 +18,7 @@ managing their collections. The LMS will provide the following functionalities:
 
 
 **1. Adding new books to the library collection** 
+
 1.1 The user will enter the name of the file containing the information about the new books after choosing this option. The LMS ought to make sure the file is available and accessible.  
   
 1.2 While the other characteristics are optional (may be provided for some books but not for others), the Title, Publisher, and ISBNs must be provided for each book.
