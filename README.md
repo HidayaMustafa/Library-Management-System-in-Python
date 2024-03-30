@@ -1,5 +1,5 @@
 # Linux_project_2
-**Python project **
+**Python project**
 ----------------------------------------
 **Problem Overview:**  
 This project involves creating a library management system (LMS) designed to assist libraries in effectively 
